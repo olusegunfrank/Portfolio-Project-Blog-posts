@@ -1,0 +1,69 @@
+iConvertPics 
+~This is an image compression/converter application.
+
+Users of the Project
+The project is designed for all categories of people that needs to covert pictures from one format to another e.g. JPEG to PNG, compress large image to small fixed size when filling forms, resize, rotate, and add background colors to images all under 30 seconds.
+
+Focus of Project
+As an graphic and engineering  problem, we wanted to focused on 2 things
+	creating an experience that would be both web and mobile-friendly
+	sourcing a reliable and sophisticated API
+
+Tell a story about yourself which relates to why you chose to work on this project
+
+	My team decided to work on this program due to the fact that we looked at the common problem in our environment and decided to proffer solution to a very common issue that people encounter every day in filling forms, uploading passport, resizing images.
+	The issue made us write the algorithm and design the application to solve this issue.
+
+Summarize what you've accomplished with your project
+
+We have been able to accomplish the following:
+1.	Write an algorithm that converts images from one format to another
+2.	Write an algorithm that compress images
+3.	Add features that remove background images form images
+4.	Add features the add background images pictures
+5.	Added functionalities that rotates images
+6.	Completed the mobile application to use all the above mentioned functionalities using flutter.
+7.	Completed the website using HTML5, CSS 3, Python, JQuery
+
+
+
+Write about your most difficult technical challenge in depth
+
+	The major challenges we had was on writing the algorithm, we searched on so many articles before we decided to write it in C programming language using the RLE method.
+
+	After we successfully wrote the algorithm, we encountered errors when integrating the functions and modules of the compression and conversion algorithm.
+	The backend storage setup using Nginx was difficult.
+
+With the help of some friends of who is a senior developer and another is also a backend engineer our team was able to solve and properly integrate all the function of the algorithm.
+
+
+Share what you've learned
+
+I have learnt a lot from this project and they are as follows
+1.	To be an excellent team player
+2.	Ability to research information to its depth
+3.	Meeting people who have more experience in project that I embarked upon.
+
+Things I might do differently are
+1.	I would make sure I get information from users who can give reliable and usable feedback
+2.	I will make sure to keep on refining information on how to do the stuff easier and faster ways
+What you learned about myself as an engineer
+1.	As an engineer understand that I need to always proffer solution to the dynamic problems that affects the people, making life easier and faster ways to get things done.
+2.	Meeting people, communication and continuous interaction is very important in problem solving.
+
+
+How this project informs your engineering path in the future
+This project I did made me realize I am going to become a better engineer, an excellent team player and most importantly a problem solver.
+
+Confirm or question any beliefs you held prior to this project
+I have confirmed that this project tough and a very real life practical experience 
+Describe yourself in a few sentences
+I am a talented and creative person with the right mindset  for growth and development with so much energy and social liveliness.
+Link to the GitHub link for the project
+https://github.com/olusegunfrank/Portfolio-Project-Blog-post
+Link to the deployed project page
+
+Link to the project’s landing page
+
+Link to your LinkedIn profile
+https://www.linkedin.com/in/olusegunfrancis20/
